@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+resultados.labreferencia.com	TRUE	/	FALSE	1999999999	ARRAffinity	b2aa7d02f1b8365d85a43ad7b2e37070f351fa2f2139777a8d43c4b407c2e636
+resultados.labreferencia.com	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	b2aa7d02f1b8365d85a43ad7b2e37070f351fa2f2139777a8d43c4b407c2e636
+resultados.labreferencia.com	TRUE	/	FALSE	1999999999	SameSite	None
+
